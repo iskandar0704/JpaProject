@@ -1,0 +1,7 @@
+{
+    "name" : "Ali",
+    "surname" : "Aliyev",
+    "level" : 2,
+    "age" : 20,
+    "gender" : "Male"
+}
